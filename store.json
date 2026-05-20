@@ -1,0 +1,32 @@
+{
+  "title": "Inhalte herunterladen",
+  "side-menu": "Menü",
+
+  "side-name-menu": "Hauptmenü",
+  "side-name-about": "Über uns",
+  "side-name-store": "Inhalte herunterladen",
+  "side-name-settings": "Einstellungen",
+  "current_version": "Aktuelle Version: ",
+  "side-name-backup": "Datenverwaltung",
+
+  "language_pack": "Sprach-Paket",
+  "theme_pack": "Design-Paket",
+  "page": "Anwendung",
+
+  "existing": "Bereits installiert",
+  "new": "Neue Inhalte",
+  "no_existing": "Noch keine Inhalte heruntergeladen",
+  "no_new": "Keine neuen Inhalte gefunden",
+
+  "status": {
+    "pending": "Wird vorbereitet",
+    "error_message": "Fehler beim Herunterladen",
+    "success_message": "erfolgreich heruntergeladen",
+    "network_error": "Netzwerkfehler beim Empfangen"
+  },
+
+  "languages": {
+    "nl": "Niederländisch",
+    "es": "Spanisch"
+  }
+}
